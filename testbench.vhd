@@ -1,6 +1,3 @@
---Group:
-	--Pulasthi Peiris
-    --Soumik Podder
 
 -- import libraries
 library IEEE;
