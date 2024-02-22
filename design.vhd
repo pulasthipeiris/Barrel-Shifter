@@ -1,6 +1,3 @@
---Group:
-	--Pulasthi Peiris
-    --Soumik Podder
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
